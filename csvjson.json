@@ -1,0 +1,50 @@
+[
+  {
+    "Your name": "Indranil Bhattacharyya",
+    "Your Bio": "I am a Data Scientist working at Renault Nissan Technology and Business Center India with a passion for both professional practice and academic mentorship. Apart from being a student, I have a strong association with this program as a mentor for various courses, having served as a mentor for the MLP project for a year and as an L1 Viva examiner since 2023. \n\nAs a Teaching Assistant for the Software Engineering course, I had the opportunity to propose and develop \"PlagTrace,\" an in-house plagiarism detection tool. My professional work involves delivering end-to-end data science solutions, including both traditional machine learning and Generative AI systems.",
+    "Presentation Title": "Preprocessing Is All You Need: How to Make Your ML Model Understand Different Modalities",
+    "Domain": "AI, ML & Data Science: GenAI, LLMs, multimodal AI, DL, RL, Data Analytics, NLP, Computer Vision",
+    "Session Abstract": "This workshop demonstrates a data-centric approach to machine learning, emphasizing that superior performance begins with well-prepared data. The workshop's purpose is to provide hands-on training in building robust preprocessing pipelines for four key data types: tabular, text, image and speech/audio. \nBy focusing on data quality and feature engineering, the workshop will show how to unlock the full potential of classic machine learning models and achieve state-of-the-art results, ultimately empowering participants to become more effective data professionals.",
+    "Duration": 60,
+    "Topics Covered": "https://docs.google.com/document/d/1x9VDvFhFHHl0ZcbOPNzbiTW0yz90T1KoB8CmMFWNDbA/edit?usp=sharing",
+    "Session Tags": "Data Preprocessing",
+    "Target Audience": "Intermediate",
+    "Pre-requisites": "Basic idea of ML, MLP course",
+    "Additional resources": "NA",
+    "Terms": "I have read the event description and agree to the TnCs. I agree that my name, bio & the session related details will be shared via our event website, posters along with my image. I agree to be contacted by the organizers via email/wap. regarding the further details. Finally, I agree that all information provided in this form is correct to the best of my knowledge.",
+    "Date": "",
+    "Time": ""
+  },
+  {
+    "Your name": "Somsubhra De",
+    "Your Bio": "I'm pursuing my BS DS here and currently in the degree level. Over the last two years, I've worked on research projects in NLP, Generative AI, and Computer Vision at IISER and IIT Roorkee. I enjoy working on problems that create social impact and have been an active part of communities that encourage learning and collaboration.\n\nI contribute as a discourse moderator and have mentored participants at LogicLooM, one of the flagship AI-ML events, for four consecutive editions at Paradox. Earlier, I've been a part of the CBSE-Intel AI4Youth student representative community.",
+    "Presentation Title": "Frustrated by Poor Responses? It's All in the Prompt!",
+    "Domain": "AI, ML & Data Science: GenAI, LLMs, multimodal AI, DL, RL, Data Analytics, NLP, Computer Vision",
+    "Session Abstract": "In today's fast-moving world of AI, large language models (for eg. GPT-4) are powerful tools - but they work best when guided with the right prompts. This beginner-friendly session introduces the basics of prompt engineering and why prompt design makes such a difference.\n\nWe’ll explore practical strategies for writing effective prompts, cover POML (Prompt Orchestration Markup Language), a new way to structure and optimize prompts for different tasks. Through hands-on exercises, participants will practice building prompts for common use cases like question answering. We won't go deep into technical details, rather this talk is meant to be structured in a easy-to-understand way for beginners.\n\nBy the end, you’ll get a good essence of these concepts to design better prompts, get more out of LLMs, and apply these skills to real-world scenarios.\n\nP.S. Undoubtedly, while one session can never master the art of prompting, this session is designed to give beginners the first spark and hopefully, curiosity to keep exploring and learning more on their own.",
+    "Duration": 60,
+    "Topics Covered": "- Introduction to LLMs and Prompt Engineering\n- Importance of prompt engineering in interacting with LLMs\n- Flavors of Efficient Prompt Engineering: Simple vs. complex prompts: When to use which?\n- N-shot, CoT style\n- Approaching QA tasks with LLMs\n- POML?",
+    "Session Tags": "Prompt Engineering, LLMs, NLP, POML, hands-on",
+    "Target Audience": "Beginners",
+    "Pre-requisites": "Basics of Python, free API key recommended for hands-on experiment",
+    "Additional resources": "None as of now, will be provided during the session",
+    "Terms": "I have read the event description and agree to the TnCs. I agree that my name, bio & the session related details will be shared via our event website, posters along with my image. I agree to be contacted by the organizers via email/wap. regarding the further details. Finally, I agree that all information provided in this form is correct to the best of my knowledge.",
+    "Date": "",
+    "Time": ""
+  },
+  {
+    "Your name": "Swarnava Chattaraj",
+    "Your Bio": "Diploma level, My research interest lies in the theoretical development of learning algorithms in general.",
+    "Presentation Title": "A Theoretical Approach to Deep Learning",
+    "Domain": "AI, ML & Data Science: GenAI, LLMs, multimodal AI, DL, RL, Data Analytics, NLP, Computer Vision",
+    "Session Abstract": "There has been various theoretical work on trying to understand deep learning but most of the time the gurantees/insights are provided on a infinite width/depth neural netowrk. The book The Principles of DeepLearning Theory takes a realistic route of trying to provide a framework to investigate various theoretical insights on a finite width/depth neural network.",
+    "Duration": 60,
+    "Topics Covered": "Developing the iterative equation for Multi Layer Perceptron, Crash overview of vanilla gradient decent and backpropagation, Show that setting all parameters to 0 initially will convert any L layer neural network with different number of neurons in each layer into a L layers neural network with one neuron in each layer, providing an alternative initialization.",
+    "Session Tags": "Deep Learning Theory, Neural Network, Initialization of the Ensembles",
+    "Target Audience": "Intermediate",
+    "Pre-requisites": "Matrix Multiplication, Normal Distribution, Multivariable Differentiation",
+    "Additional resources": "The principal book on which my presentation will be based on is https://arxiv.org/pdf/2106.10165",
+    "Terms": "I have read the event description and agree to the TnCs. I agree that my name, bio & the session related details will be shared via our event website, posters along with my image. I agree to be contacted by the organizers via email/wap. regarding the further details. Finally, I agree that all information provided in this form is correct to the best of my knowledge.",
+    "Date": "",
+    "Time": ""
+  }
+]
